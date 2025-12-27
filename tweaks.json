@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Ultimate Tweaks",
+    "price": 40,
+    "desc": "Maximize FPS, CPU, and overall system performance.",
+    "img": "https://raw.githubusercontent.com/OT-Tweaks/ot-tweaks-data/main/images/ultimate.jpg"
+  },
+  {
+    "name": "More Tweaks Coming Soon",
+    "price": 0,
+    "desc": "Stay tuned!",
+    "img": "https://raw.githubusercontent.com/YOUR_USERNAME/ot-tweaks-data/main/images/soon.jpg"
+  }
+]
